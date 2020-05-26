@@ -1,3 +1,5 @@
+Chrome 81.0.4044.92
+
 diable the task scheduler libraries GoogleUpdateTaskMachineCore, GoogleUpdateTaskMachineUA
 disable the services gupdate, gupdatem
 
