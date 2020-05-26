@@ -1,3 +1,5 @@
+Firefox 75.0
+
 disable the service MozillaMaintenance
 make folder C:\Program Files\Mozilla Firefox\distribution
 save file C:\Program Files\Mozilla Firefox\distribution\policies.json
