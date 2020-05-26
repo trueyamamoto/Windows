@@ -1,0 +1,4 @@
+diable the task scheduler libraries GoogleUpdateTaskMachineCore, GoogleUpdateTaskMachineUA
+disable the services gupdate, gupdatem
+
+Don't remove them because they are restored when you go to see the version.
