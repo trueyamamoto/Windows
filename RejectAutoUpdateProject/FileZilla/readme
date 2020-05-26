@@ -1,0 +1,7 @@
+FileZilla 3.48.0
+
+Set "Check for FileZilla updates automatically" to "Never".
+Delete installer exe in your download folder if the file exists.
+In \AppData\Roaming\FileZilla\filezilla.xml, remove the lines "Last automatic update check", "Last automatic update version", "Update Check New Version".
+
+Never click "Run update check".
