@@ -1,6 +1,4 @@
 How to reject auto update of Adobe Reader DC
 
-Chrome 81.0.4044.92
-
 Set the registry HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Adobe\Adobe ARM\Legacy\Reader\{AC76BA86-7AD7-1041-7B44-AC0F074E4100}\Mode to 0.
 Make a registry HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Adobe\Acrobat Reader\DC\FeatureLockDown\bUpdater and set it to 0.
