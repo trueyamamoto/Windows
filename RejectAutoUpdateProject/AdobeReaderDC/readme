@@ -1,6 +1,6 @@
 How to reject auto update of Adobe Reader DC
 
-Diable the task scheduler libraries "Adobe Acrobat Update Task".
+Disable the task scheduler libraries "Adobe Acrobat Update Task".
 Disable the services "Adobe Acrobat Update Service".
 
 Set the registry HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Adobe\Adobe ARM\Legacy\Reader\{AC76BA86-7AD7-1041-7B44-AC0F074E4100}\Mode to 0.
