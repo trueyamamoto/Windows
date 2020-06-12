@@ -3,4 +3,5 @@ How to reject auto update and update notification of Opera Browser
 Opera 68.0.3618.125
 
 Disable the task scheduler libraries "Opera scheduled Autoupdate ***" and "Opera scheduled assistant Autoupdate ***".
-Delete files opera_autoupdate.exe, opera_autoupdate.licenses, opera_autoupdate.version in C:\Program Files\Opera\[version]\.
+Remove files opera_autoupdate.exe, opera_autoupdate.licenses, opera_autoupdate.version in C:\Program Files\Opera\[version]\.
+Back up these files if you will update Opera someday.
