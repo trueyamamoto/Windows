@@ -5,3 +5,5 @@ Opera 68.0.3618.125
 Disable the task scheduler libraries "Opera scheduled Autoupdate ***" and "Opera scheduled assistant Autoupdate ***".
 Remove files opera_autoupdate.exe, opera_autoupdate.licenses, opera_autoupdate.version in C:\Program Files\Opera\[version]\.
 Back up these files if you will update Opera someday.
+
+If you find the file C:\Program Files\Opera\launcher.exe.backup, remove the current launcher.exe and rename the .backup to launcher.exe.
