@@ -1,0 +1,10 @@
+How to create Animation GIF with TMPGEnc Video Mastering Works 7
+New Project (Normal mode)
+Add Slideshow
+on Add Slideshow window
+  Image Settings > Add images : add material images
+  Image Settings > Global Settings > Basic Settings > Time : set to 1 second
+  Filter > Speed : switch speed to on and adjust the play speed
+  OK
+Output Setting : select Animation image file output and adjust size and fps
+Encode
