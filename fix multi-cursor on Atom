@@ -1,0 +1,4 @@
+if Ctrl+click is now working
+
+Open console Ctrl+Shift+I
+Run atom.config.set('core.editor.multiCursorOnClick', true);
