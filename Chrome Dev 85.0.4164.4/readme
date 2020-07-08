@@ -1,8 +1,8 @@
 Notice: This is not for normal Chrome but for Chrome Dev.
 
-Chrome Dev 85.0.4189.9 is not working on Windows 10 Pro 1909 screaming STATUS_ACCESS_VIOLATION.
+The newest Google Chrome Dev 85.0.4189.9 is not working on the newest Windows 10 Pro 1909 screaming STATUS_ACCESS_VIOLATION.
 
-in C:\Program Files (x86)\Google\Chrome Dev\Application
+in C:\Program Files\Google\Chrome Dev\Application
   delete the folder in version name and its inner files e.g. 85.0.4189.9
   replace all files to an old version e.g. 85.0.4164.4
   run Chrome Dev
