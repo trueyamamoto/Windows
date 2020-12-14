@@ -1,6 +1,7 @@
 How to reject auto update and update notification of Mozilla Thunderbird
 
-Thunderbird 68.8.0 (64bit)
+Thunderbird 78.5.1 (64bit)
 
 disable the service MozillaMaintenance
+create a folder C:\Program Files\Mozilla Thunderbird\distribution
 save file C:\Program Files\Mozilla Thunderbird\distribution\policies.json
