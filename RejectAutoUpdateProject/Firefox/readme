@@ -1,6 +1,6 @@
 How to reject auto update and update notification of Mozilla Firefox
 
-Firefox 75.0
+Firefox 85.0
 
 Disable the service "Mozilla Maintenance Service".
 Make a folder C:\Program Files\Mozilla Firefox\distribution
