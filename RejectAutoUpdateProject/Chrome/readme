@@ -1,9 +1,16 @@
 How to reject auto update and update notification of Google Chrome
 
-Chrome 86.0.4240.111
-Chrome Dev 88.0.4302.0
+Chrome 86.0.4240.111 or later
+Chrome Dev 88.0.4302.0 or later
 
 Disable the task scheduler libraries GoogleUpdateTaskMachineCore, GoogleUpdateTaskMachineUA.
 Disable the services "Google Update Service (gupdate)", "Google Update Service (gupdatem)".
 
 Don't remove them because they are restored when you go to see the version.
+
+
+Chrome canary 113 or later
+
+run the Local Group Policy Editor (gpedit.msc)
+Local Computer Policy > Computer Configuration > Administrative Templates > Google > Google Update > Applications > Google Chrome ***(any build)
+Update policy override, set "Updates disabled"
