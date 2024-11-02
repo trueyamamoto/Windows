@@ -1,5 +1,9 @@
 How to reject auto update and update notification of Opera Browser
 
+Opera 112.0.5197.24
+rename or delete the folder
+C:\Program Files\Opera\autoupdate
+
 Opera 101.0.4843.33
 Open the properties of Opera's shortcut
 Edit the Target text area in the Shortcut tab
